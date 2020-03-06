@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" filepath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" filepath="$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" />
+    </modules>
+  </component>
+</project>
