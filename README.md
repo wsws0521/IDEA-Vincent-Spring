@@ -7,9 +7,10 @@ Spring框架学习
 
 ① 创建web项目
 
-② 导核心jar：beans+core+context+expression+（日志输出jar：logging+log4j）
+② 导核心jar：beans + core + context + expression + （日志输出jar：logging + log4j）
 （与Eclipse保持一致，WEB-INF下面创建lib存放jar，并添加为dependencies路径）
 （也可以像JUnit4一样，添加为整个项目的External Libraries）
+（spring-beans-4.2.4.RELEASE、spring-core-4.2.4.RELEASE、spring-context-4.2.4.RELEASE、spring-expression-4.2.4.RELEASE、commons-logging-1.2、log4j-1.2.16）
 
 ③ 创建cn.itcast.ioc.User.class
 

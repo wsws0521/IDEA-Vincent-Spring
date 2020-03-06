@@ -103,8 +103,4 @@ public class TestIOC {
 		propertyDemo3.test3();
 	}
 	
-	
-	
-	
-	
 }
