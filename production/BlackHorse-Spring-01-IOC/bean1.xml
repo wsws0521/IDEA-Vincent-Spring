@@ -29,48 +29,48 @@
 	<bean id="propertyDemo2" class="cn.itcast.property.PropertyDemo2">
 		<property name="username" value="小吴小付"></property>
 	</bean>
-<!--	&lt;!&ndash; 通过类中的setter注入  对象  属性 &ndash;&gt;-->
-<!--	<bean id="userdao" class="cn.itcast.property.ref.UserDao"></bean>-->
-<!--	<bean id="userservice" class="cn.itcast.property.ref.UserService">-->
-<!--		<property name="userDao" ref="userdao"></property>-->
-<!--	</bean>-->
-<!--	&lt;!&ndash; 利用【p名称空间】注入属性 &ndash;&gt;-->
-<!--	&lt;!&ndash; xmlns:p="http://www.springframework.org/schema/p" &ndash;&gt;-->
-<!--	<bean id="propertyDemo3" class="cn.itcast.property.PropertyDemo3" p:name="Vincent">-->
-<!--		&lt;!&ndash; array &ndash;&gt;-->
-<!--		<property name="arrs">-->
-<!--			<list>-->
-<!--				<value>小王</value>-->
-<!--				<value>小马</value>-->
-<!--				<value>小畜生</value>-->
-<!--			</list>-->
-<!--		</property>-->
-<!--		&lt;!&ndash; list &ndash;&gt;-->
-<!--		<property name="list">-->
-<!--			<list>-->
-<!--				<value>小王list</value>-->
-<!--				<value>小马list</value>-->
-<!--				<value>小畜生list</value>-->
-<!--			</list>-->
-<!--		</property>-->
-<!--		&lt;!&ndash; map &ndash;&gt;-->
-<!--		<property name="map">-->
-<!--			<map>-->
-<!--				<entry key="a" value="小王"></entry>-->
-<!--				<entry key="b" value="小马"></entry>-->
-<!--				<entry key="c" value="小畜生"></entry>-->
-<!--			</map>-->
-<!--		</property>-->
-<!--		&lt;!&ndash; properties &ndash;&gt;-->
-<!--		<property name="prop">-->
-<!--			<props>-->
-<!--				<prop key="diverclass">com.mysql.jdbc.Driver</prop>-->
-<!--				<prop key="username">root</prop>-->
-<!--			</props>-->
-<!--		</property>-->
-<!--	</bean>-->
-<!--	&lt;!&ndash; 总结：IOC控制反转=创建bean对象，DI依赖注入依存于IOC &ndash;&gt;-->
-<!--	-->
+	<!-- 通过类中的setter注入  对象  属性 -->
+	<bean id="userdao" class="cn.itcast.property.ref.UserDao"></bean>
+	<bean id="userservice" class="cn.itcast.property.ref.UserService">
+		<property name="userDao" ref="userdao"></property>
+	</bean>
+	<!-- 利用【p名称空间】注入属性 -->
+	<!-- xmlns:p="http://www.springframework.org/schema/p" -->
+	<bean id="propertyDemo3" class="cn.itcast.property.PropertyDemo3" p:name="Vincent">
+		<!-- array -->
+		<property name="arrs">
+			<list>
+				<value>小王</value>
+				<value>小马</value>
+				<value>小畜生</value>
+			</list>
+		</property>
+		<!-- list -->
+		<property name="list">
+			<list>
+				<value>小王list</value>
+				<value>小马list</value>
+				<value>小畜生list</value>
+			</list>
+		</property>
+		<!-- map -->
+		<property name="map">
+			<map>
+				<entry key="a" value="小王"></entry>
+				<entry key="b" value="小马"></entry>
+				<entry key="c" value="小畜生"></entry>
+			</map>
+		</property>
+		<!-- properties -->
+		<property name="prop">
+			<props>
+				<prop key="diverclass">com.mysql.jdbc.Driver</prop>
+				<prop key="username">root</prop>
+			</props>
+		</property>
+	</bean>
+	<!-- 总结：IOC控制反转=创建bean对象，DI依赖注入依存于IOC -->
+
 	
 	
 </beans>
