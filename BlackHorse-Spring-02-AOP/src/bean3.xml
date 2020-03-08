@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:aop="http://www.springframework.org/schema/aop" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
+
+<!-- C:\Users\Vincent\Desktop\spring-framework-4.2.4.RELEASE\docs\spring-framework-reference\html
+下面的xsd-configuration.html
+浏览器打开，页面底部  复制过来-->
+<!-- 注解额外需要context约束40.2.8 -->
+<!-- aop额外需要aop约束40.2.7 -->
+
+
+<!-- 1、配置对象 -->
+<bean id="book" class="cn.itcast.aop.Book"></bean>
+<bean id="myBook" class="cn.itcast.aop.MyBook"></bean>
+<!-- 2、配置aop操作 -->
+<aop:config>
+	<!-- 2.1、配置切入点 -->
+<!--	execution(<访问修饰符>?<返回类型><方法名>(<参数>)<异常>)-->
+<!--	execution(* cn.itcast.aop.Book.add*(..)) 以add开头的所有方法 -->
+<!--	execution(* cn.itcast.aop.Book.*(..)) 对象下的所有方法 -->
+<!--	execution(* *.*(..))-->
+	<aop:pointcut id="pointcut1" expression="execution(* cn.itcast.aop.Book.*(..))"/>
+	<!-- 2.2、配置切面：把增强用到方法上 -->
+	<aop:aspect ref="myBook">
+		<aop:before method="before1" pointcut-ref="pointcut1"/>
+		<aop:after-returning method="after1" pointcut-ref="pointcut1"/>
+		<aop:around method="around1" pointcut-ref="pointcut1"/>
+	</aop:aspect>
+
+</aop:config>
+
+</beans>

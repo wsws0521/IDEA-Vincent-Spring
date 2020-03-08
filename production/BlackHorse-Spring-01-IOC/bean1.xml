@@ -34,8 +34,8 @@
 	<bean id="userservice" class="cn.itcast.property.ref.UserService">
 		<property name="userDao" ref="userdao"></property>
 	</bean>
-	<!-- 利用【p名称空间】注入属性 -->
-	<!-- xmlns:p="http://www.springframework.org/schema/p" -->
+	<!-- 利用【p名称空间】注入属性 xmlns:p="http://www.springframework.org/schema/p" p:name="Vincent" -->
+	<!-- 注入复杂属性，与p无关 -->
 	<bean id="propertyDemo3" class="cn.itcast.property.PropertyDemo3" p:name="Vincent">
 		<!-- array -->
 		<property name="arrs">

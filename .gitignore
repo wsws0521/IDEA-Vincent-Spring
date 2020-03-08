@@ -1,2 +1,7 @@
 production/*
 BlackHorse-Spring-01-IOC/lib/*.jar
+out/artifacts/*
+lib/*
+*/lib/*
+**/lib/*
+**/classes/**

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"  
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:context="http://www.springframework.org/schema/context"  
+  xmlns:jaxws="http://cxf.apache.org/jaxws"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+                    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd  
+                    http://www.springframework.org/schema/context   
+                    http://www.springframework.org/schema/context/spring-context-3.0.xsd
+                    http://cxf.apache.org/jaxws  
+                    http://cxf.apache.org/schemas/jaxws.xsd">  
+     
+    <!-- 第一种方式 -->
+    <!--其中id是自己定义的，implementor是接口实现类，address就是访问的地址 -->
+    <!-- 相当于Endpoint.publish("http://localhost:8080/service", newHelloServiceImp()); --> 
+    <jaxws:endpoint id="helloService" implementor="cn.cxf.sayhello.HelloServiceImpl" address="/hello"/>
+
+	
+	<!-- 第二种方式 -->
+	<!-- implementor属性里写的是bean的id，但是要以#开头，特定写法 -->
+    <!-- <jaxws:endpoint implementor="#HelloService" address="/hello"/> -->
+
+</beans>

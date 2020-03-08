@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BlackHorse-Spring-02-AOP:war exploded">
+    <output-path>$PROJECT_DIR$/artifacts/BlackHorse_Spring_02_AOP_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="BlackHorse-Spring-02-AOP/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BlackHorse-Spring-02-AOP" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

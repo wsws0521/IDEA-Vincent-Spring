@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" filepath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/BlackHorse-Spring-01-IOC-Annotation.iml" filepath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/BlackHorse-Spring-01-IOC-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlackHorse-Spring-02-AOP/BlackHorse-Spring-02-AOP.iml" filepath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/BlackHorse-Spring-02-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" filepath="$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-CXF/Spring-CXF.iml" filepath="$PROJECT_DIR$/Spring-CXF/Spring-CXF.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <!-- C:\Users\Vincent\Desktop\spring-framework-4.2.4.RELEASE\docs\spring-framework-reference\html
+    下面的xsd-configuration.html
+    浏览器打开，页面底部  复制过来-->
+    <!-- 注解额外需要context约束 -->
+
+    <!-- 开启注解扫描（省略写各种bean） -->
+    <!-- 路径可加逗号、星号、可写父亲 -->
+    <!-- 可扫描指定路径下【类】【方法】【属性】上的注解 -->
+    <context:component-scan base-package="cn.itcast"></context:component-scan>
+
+    <!-- 可扫描指定路径下 仅 【属性】上的注解 -->
+    <!-- <context:annotation-config></context:annotation-config> -->
+
+
+
+
+</beans>
