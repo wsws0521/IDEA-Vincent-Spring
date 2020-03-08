@@ -7,77 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18b1486c-4586-4a4d-a202-761fa24505f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Spring_CXF_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/neethi-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/Spring-CXF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/src/bean3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/src/cn/cxf/sayhello/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/src/cn/cxf/sayhello/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/src/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/src/spring-cxf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-core-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-bindings-soap-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-databinding-jaxb-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-frontend-jaxws-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-frontend-simple-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-transports-http-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-transports-udp-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-ws-addr-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/cxf-rt-wsdl-3.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/neethi-3.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/slf4j-api-1.7.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/stax2-api-3.1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/woodstox-core-asl-4.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/wsdl4j-1.6.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/lib/xmlschema-core-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring-CXF/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/BlackHorse-Spring-01-IOC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/src/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/src/bean1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BlackHorse-Spring-01-IOC/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/production/BlackHorse-Spring-01-IOC/bean1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/production/BlackHorse-Spring-01-IOC/bean1.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,14 +21,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/src/cn/itcast/test/TestAnno.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#306#335#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="119">
+                <caret line="94" column="40" lean-forward="true" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+                <folding>
+                  <element signature="e#80#108#0" />
+                  <element signature="e#2109#2148#0" />
+                  <element signature="e#2770#2798#0" />
+                  <element signature="e#3463#3477#0" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -177,6 +112,32 @@
             <path>
               <item name="IDEA-Vincent-Spring" type="b2602c69:ProjectViewProjectNode" />
               <item name="IDEA-Vincent-Spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-Vincent-Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA-Vincent-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-CXF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-Vincent-Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA-Vincent-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-CXF" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-Vincent-Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA-Vincent-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-CXF" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IDEA-Vincent-Spring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IDEA-Vincent-Spring" type="462c0819:PsiDirectoryNode" />
+              <item name="Spring-CXF" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -420,7 +381,7 @@
       <updated>1583520294136</updated>
       <workItem from="1583520296321" duration="25344000" />
       <workItem from="1583620465787" duration="3825000" />
-      <workItem from="1583660998546" duration="2771000" />
+      <workItem from="1583660998546" duration="4171000" />
     </task>
     <servers />
   </component>
@@ -457,10 +418,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31940000" />
+    <option name="totallyTimeSpent" value="33340000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -751,16 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="213">
-            <caret line="129" column="28" lean-forward="true" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Spring-CXF/src/spring-cxf.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
@@ -770,12 +722,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BlackHorse-Spring-01-IOC-Annotation/src/cn/itcast/test/TestAnno.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="527">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#306#335#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-CXF/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="94" column="40" lean-forward="true" selection-start-line="94" selection-start-column="40" selection-end-line="94" selection-end-column="40" />
+            <folding>
+              <element signature="e#80#108#0" />
+              <element signature="e#2109#2148#0" />
+              <element signature="e#2770#2798#0" />
+              <element signature="e#3463#3477#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

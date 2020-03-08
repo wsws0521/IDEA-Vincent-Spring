@@ -62,7 +62,6 @@ cn.itcast.ioc.TestIOC.testProperty1()
 3、在ServletContext对象创建时，加载Bean1.xml，便会把创建的Bean放入（setAttribute）到ServletContext域
 Spring已经封装了此操作，在web.xml中配置Spring监听器，前提是引入[spring-web-4.2.4.RELEASE.jar]
 
-
 ### BlackHorse-Spring-01-IOC-Annotation
 
 ① 创建web项目
@@ -124,7 +123,21 @@ cn.itcast.aop.MyBook
 ### Spring-CXF
 
 ① 创建web项目
-lib下面添加jar依赖
+lib下面添加jar依赖：
+[commons-logging-1.2] + [log4j-1.2.16] + [slf4j-api-1.7.26],
+[aop] + [apects] + [beans] + [context] + [core] + [expression] + [web],
+[cxf-core-3.3.1],
+[cxf-rt-bindings-soap-3.3.1],
+[cxf-rt-databinding-jaxb-3.3.1],
+[cxf-rt-frontend-jaxws-3.3.1],
+[cxf-rt-frontend-simple-3.3.1],
+[cxf-rt-transports-http-3.3.1],
+[cxf-rt-transports-udp-3.3.1],
+[cxf-rt-ws-addr-3.3.1],
+[cxf-rt-wsdl-3.3.1],
+[stax2-api-3.1.4] + [woodstox-core-asl-4.4.1], -- 兼容soupUI的不安全请求
+[wsdl4j-1.6.3] + [xmlschema-core-2.2.4],
+[neethi-3.1.1]作用未知
 
 ② 创建cxf-webservice接口
 cn.cxf.sayhello.HelloService
