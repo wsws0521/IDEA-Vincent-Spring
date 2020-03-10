@@ -5,3 +5,5 @@ lib/*
 */lib/*
 **/lib/*
 **/classes/**
+.idea/libraries/Maven__com_sun_istack_istack_commons_tools_3_0_8.xml
+.idea/**
