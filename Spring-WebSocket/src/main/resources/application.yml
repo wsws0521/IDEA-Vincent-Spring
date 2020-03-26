@@ -1,0 +1,25 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: springboot-websocket
+  freemarker:
+    cache: false  # 关闭模板缓存，方便测试
+    settings:
+      template_update_delay: 0 #检查模板更新延迟时间，设置为0表示立即检查，如果时间大于0会有缓存不方便进行模板测试
+      default_encoding: UTF-8
+      classic_compatible: true
+    allow-request-override: false # 是否允许HttpServletRequest属性覆盖(隐藏)控制器生成的同名模型属性
+    allow-session-override: false # 是否允许HttpSession属性覆盖(隐藏)控制器生成的同名模型属性。
+    charset: UTF-8 # 模板编码。
+    check-template-location: true # 是否检查模板位置是否存在。
+    content-type: text/html
+    enabled: true
+    expose-session-attributes: true # 是否在merge模板的时候，将HttpSession属性都添加到model中
+    expose-request-attributes: true # 设定所有request的属性在merge到模板的时候，是否要都添加到model中.
+    expose-spring-macro-helpers: true # 设定是否以springMacroRequestContext的形式暴露RequestContext给Spring’s macro library使用
+    prefer-file-system-access: true # 是否优先从文件系统加载template，以支持热加载，默认为true
+    suffix: .ftl # 设定模板的后缀.
+    template-loader-path: classpath:/templates/ # 设定模板的加载路径，多个以逗号分隔，默认:
+  mvc:
+    static-path-pattern: /static/**

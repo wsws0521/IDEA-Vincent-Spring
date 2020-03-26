@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/BlackHorse-Spring-02-AOP/BlackHorse-Spring-02-AOP.iml" filepath="$PROJECT_DIR$/BlackHorse-Spring-02-AOP/BlackHorse-Spring-02-AOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" filepath="$PROJECT_DIR$/.idea/IDEA-Vincent-Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-CXF/Spring-CXF.iml" filepath="$PROJECT_DIR$/Spring-CXF/Spring-CXF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-FreeMarker/Spring-FreeMarker.iml" filepath="$PROJECT_DIR$/Spring-FreeMarker/Spring-FreeMarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-WebSocket/Spring-WebSocket.iml" filepath="$PROJECT_DIR$/Spring-WebSocket/Spring-WebSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-CXF-REST-Maven/Springboot-CXF-REST-Maven.iml" filepath="$PROJECT_DIR$/Springboot-CXF-REST-Maven/Springboot-CXF-REST-Maven.iml" />
     </modules>
   </component>
