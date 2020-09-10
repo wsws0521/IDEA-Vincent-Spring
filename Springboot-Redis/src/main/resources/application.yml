@@ -1,0 +1,15 @@
+spring:
+  redis:
+    database: 0   # 数据库 索引
+    host: 192.168.87.106   # 本机
+    port: 6379
+    password:
+    jedis:
+      pool:
+        max-active: 8   # 最大连接数
+        max-wait: -1    # 最大阻塞等待时间（无限制）
+        max-idle: 8     # 最大空闲
+        min-idle: 0     # 最小空闲
+    timeout: 10000    # 连接超时时间（10s）
+server:
+  port: 8080
