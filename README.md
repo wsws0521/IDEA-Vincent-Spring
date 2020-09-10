@@ -154,3 +154,7 @@ http://localhost:8080/CXF/service -- 可以看到Service List
 http://localhost:8080/CXF/service/hello?wsdl -- 可用于SoupUI单独测试
 报错：Cannot create a secure XMLInputFactory（新版Tomcat导致？）
 需要依赖[woodstox-core-asl-4.4.1.jar] + [stax2-api-3.1.4.jar]来兼容不安全的请求
+
+### springboot-xxlsso-server
+xxl-sso是一款基于redis轻量级分布式高可用的SSO实现组件(集成起来超级方便)
+支持web端(Cookie实现)和app端(Token实现)两种方式，两种方式的验证都是用Filter实现的

@@ -10,6 +10,26 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-FreeMarker/Spring-FreeMarker.iml" filepath="$PROJECT_DIR$/Spring-FreeMarker/Spring-FreeMarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-WebSocket/Spring-WebSocket.iml" filepath="$PROJECT_DIR$/Spring-WebSocket/Spring-WebSocket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-CXF-REST-Maven/Springboot-CXF-REST-Maven.iml" filepath="$PROJECT_DIR$/Springboot-CXF-REST-Maven/Springboot-CXF-REST-Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Elasticsearch/Springboot-Elasticsearch.iml" filepath="$PROJECT_DIR$/Springboot-Elasticsearch/Springboot-Elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Netty/Springboot-Netty.iml" filepath="$PROJECT_DIR$/Springboot-Netty/Springboot-Netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-Redis/Springboot-Redis.iml" filepath="$PROJECT_DIR$/Springboot-Redis/Springboot-Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/Springboot-xxljob-core/Springboot-xxljob-core.iml" filepath="$PROJECT_DIR$/springboot-xxljob/Springboot-xxljob-core/Springboot-xxljob-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-action/springboot-action.iml" filepath="$PROJECT_DIR$/springboot-action/springboot-action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-admin/springboot-xxljob-admin.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-admin/springboot-xxljob-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-frameless/springboot-xxljob-samples-frameless.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-frameless/springboot-xxljob-samples-frameless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jbost/springboot-xxljob-samples-jbost.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jbost/springboot-xxljob-samples-jbost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jfinal/springboot-xxljob-samples-jfinal.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jfinal/springboot-xxljob-samples-jfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-nutz/springboot-xxljob-samples-nutz.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-nutz/springboot-xxljob-samples-nutz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-spring/springboot-xxljob-samples-spring.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-spring/springboot-xxljob-samples-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-springboot/springboot-xxljob-samples-springboot.iml" filepath="$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-springboot/springboot-xxljob-samples-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-core/springboot-xxlsso-core.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-core/springboot-xxlsso-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples-token/springboot-xxlsso-samples-token.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples-token/springboot-xxlsso-samples-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples-web/springboot-xxlsso-samples-web.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-samples/springboot-xxlsso-samples-web/springboot-xxlsso-samples-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-server/springboot-xxlsso-server.iml" filepath="$PROJECT_DIR$/springboot-xxlsso/springboot-xxlsso-server/springboot-xxlsso-server.iml" />
     </modules>
   </component>
 </project>

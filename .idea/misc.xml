@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jfinal" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-nutz" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-spring" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -9,10 +14,23 @@
         <option value="$PROJECT_DIR$/Springboot-CXF-REST-Maven/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-WebSocket/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-FreeMarker/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Netty/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Redis/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot-Elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxlsso-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxlsso/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxlsso-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxljob/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot-xxlsso-samples/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-xxlsso-samples/springboot-xxlsso-samples-web/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$" />
   </component>
 </project>
