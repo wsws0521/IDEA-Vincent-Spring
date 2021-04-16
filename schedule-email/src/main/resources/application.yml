@@ -1,0 +1,10 @@
+spring:
+  mail:
+    username: 623540439@qq.com
+    password: aflasqjcnwhhbdcj
+    host: smtp.qq.com
+    properties:
+      mail.smtp.auth: true  # 开启SMTP 协议验证
+    port: 587
+
+wmy.mail: wangmengyuan1126@126.com
