@@ -1,5 +1,7 @@
 # IDEA-Vincent-Spring
 Spring框架学习
+Spring的Jfrog发布平台
+https://repo.spring.io/webapp/#/artifacts/browse/tree/General/libs-release-local/org/springframework/spring/4.2.4.RELEASE/spring-framework-4.2.4.RELEASE-dist.zip
 
 ## 【印象笔记】-【BlackHorse】java进阶教程4天精通Spring框架开发
 

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/groupon/Admin/Web" />
+    <file type="web" url="file://$PROJECT_DIR$/groupon/Alipay" />
+    <file type="web" url="file://$PROJECT_DIR$/groupon/ImageServer" />
+    <file type="web" url="file://$PROJECT_DIR$/groupon/Site/Web" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-jfinal" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-nutz" />
     <file type="web" url="file://$PROJECT_DIR$/springboot-xxljob/springboot-xxljob-samples/springboot-xxljob-samples-spring" />
@@ -21,6 +25,8 @@
         <option value="$PROJECT_DIR$/springboot-xxlsso/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-xxlsso-samples/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-xxljob/pom.xml" />
+        <option value="$PROJECT_DIR$/groupon/pom.xml" />
+        <option value="$PROJECT_DIR$/schedule-email/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
