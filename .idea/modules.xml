@@ -13,7 +13,6 @@
       <module fileurl="file://$PROJECT_DIR$/Springboot-Elasticsearch/Springboot-Elasticsearch.iml" filepath="$PROJECT_DIR$/Springboot-Elasticsearch/Springboot-Elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-Netty/Springboot-Netty.iml" filepath="$PROJECT_DIR$/Springboot-Netty/Springboot-Netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-Redis/Springboot-Redis.iml" filepath="$PROJECT_DIR$/Springboot-Redis/Springboot-Redis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-xxljob/Springboot-xxljob-core/Springboot-xxljob-core.iml" filepath="$PROJECT_DIR$/springboot-xxljob/Springboot-xxljob-core/Springboot-xxljob-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/groupon.iml" filepath="$PROJECT_DIR$/groupon/groupon.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/Admin/groupon-admin.iml" filepath="$PROJECT_DIR$/groupon/Admin/groupon-admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/Admin/Controller/groupon-admin-controller.iml" filepath="$PROJECT_DIR$/groupon/Admin/Controller/groupon-admin-controller.iml" />
@@ -23,6 +22,8 @@
       <module fileurl="file://$PROJECT_DIR$/groupon/Site/groupon-site.iml" filepath="$PROJECT_DIR$/groupon/Site/groupon-site.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/Site/Controller/groupon-site-controller.iml" filepath="$PROJECT_DIR$/groupon/Site/Controller/groupon-site-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/Site/Web/groupon-site-web.iml" filepath="$PROJECT_DIR$/groupon/Site/Web/groupon-site-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-boot-starter/my-spring-boot-starter.iml" filepath="$PROJECT_DIR$/my-spring-boot-starter/my-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-spring-boot-starter-test/my-spring-boot-starter-test.iml" filepath="$PROJECT_DIR$/my-spring-boot-starter-test/my-spring-boot-starter-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/groupon/Alipay/road-alipay.iml" filepath="$PROJECT_DIR$/groupon/Alipay/road-alipay.iml" />
       <module fileurl="file://$PROJECT_DIR$/schedule-email/schedule-email.iml" filepath="$PROJECT_DIR$/schedule-email/schedule-email.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-action/springboot-action.iml" filepath="$PROJECT_DIR$/springboot-action/springboot-action.iml" />

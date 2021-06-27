@@ -27,10 +27,13 @@
         <option value="$PROJECT_DIR$/springboot-xxljob/pom.xml" />
         <option value="$PROJECT_DIR$/groupon/pom.xml" />
         <option value="$PROJECT_DIR$/schedule-email/pom.xml" />
+        <option value="$PROJECT_DIR$/my-spring-boot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/my-spring-boot-starter-test/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/springboot-xxljob/Springboot-xxljob-core/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-xxlsso-samples/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-xxlsso-samples/springboot-xxlsso-samples-web/pom.xml" />
       </set>
